@@ -1,0 +1,9 @@
+com\springboot\demo\DemoApplication.class
+com\springboot\demo\service\UserService.class
+com\springboot\demo\controller\UserController.class
+com\springboot\demo\dao\UserDao.class
+com\springboot\demo\entity\BaseEntity.class
+com\springboot\demo\base\utils\StateParameter.class
+com\springboot\demo\entity\User.class
+com\springboot\demo\service\impl\UserServiceImpl.class
+com\springboot\demo\base\controller\BaseController.class
